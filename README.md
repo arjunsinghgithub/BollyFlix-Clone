@@ -157,26 +157,6 @@ Change grid columns in `style.css`:
 }
 ```
 
-## 📋 To-Do / Future Enhancements
-
-- [ ] Add filters (genre, year, quality)
-- [ ] Implement actual search functionality
-- [ ] Add movie detail modal
-- [ ] Implement user accounts
-- [ ] Add watchlist feature
-- [ ] Progressive Web App (PWA) support
-- [ ] Dark/Light theme toggle
-- [ ] Multi-language support
-
-## 🐛 Bug Fixes from Original
-
-1. **Fixed duplicate ID**: Changed `id="s"` and `id="b"` to unique IDs
-2. **Fixed pagination**: Corrected page 7 link (was linking to page 8)
-3. **Fixed semantic HTML**: Changed h4 to h2 for movie titles
-4. **Fixed accessibility**: Added proper labels and ARIA attributes
-5. **Fixed form structure**: Wrapped search input in form element
-6. **Removed inline JavaScript**: Moved to external file
-7. **Fixed image aspect ratios**: Maintained proper proportions
 
 ## 📝 Code Quality
 
