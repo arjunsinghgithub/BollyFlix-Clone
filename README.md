@@ -3,7 +3,7 @@
 ## 📱 Overview
 This is a fully responsive, mobile-optimized version of the BollyFlix movie streaming website. The code has been completely refactored with modern web development best practices, accessibility features, and mobile-first design.
 
-## ✨ Key Improvements
+## ✨ Key Features
 
 ###  **Mobile Responsiveness**
 - **Mobile-first approach** with responsive breakpoints
@@ -184,6 +184,9 @@ Change grid columns in `style.css`:
 - Accessibility Score: 95+
 
 ## 🙏 Credits
+**Arjun Singh**
+- GitHub: [@arjunsinghgithub](https://github.com/arjunsinghgithub)
+
 
 Improved version of BollyFlix website with:
 - Modern responsive design
